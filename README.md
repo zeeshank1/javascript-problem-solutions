@@ -1,7 +1,7 @@
 
 
 
-# JavaScript Problem Solutions
+# JavaScript Problem Solutions Repository 
 
 A curated collection of JavaScript problem solutions, ranging from beginner to advanced levels. Useful for interview preparation, competitive coding, and improving problem-solving skills.
 
