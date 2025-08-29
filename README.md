@@ -1,6 +1,3 @@
-
-
-
 # JavaScript Problem Solutions Repository 
 
 A curated collection of JavaScript problem solutions, ranging from beginner to advanced levels. Useful for interview preparation, competitive coding, and improving problem-solving skills.
@@ -37,7 +34,8 @@ javascript-problem-solutions/
 - Dynamic Programming  
 - Backtracking  
 - Bit Manipulation  
-- Math & Logic Puzzles  
+- Math & Logic Puzzles
+- Latest version concepts like
 
 ## ✅ How to Use
 
